@@ -1,1 +1,1 @@
-# smedia-api
+# sm-api
